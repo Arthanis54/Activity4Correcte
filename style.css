@@ -44,3 +44,17 @@ hr{
 }
 /* IMG LEFT */
 /* IMG RIGHT */
+#product2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#pcInfo{
+    background-color: rgb(169, 168, 168);
+    width: 40%;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
