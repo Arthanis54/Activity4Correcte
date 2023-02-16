@@ -1,4 +1,28 @@
 /* MENU */
+html{
+    font-family: 'Lato', sans-serif;
+}
+body{
+    margin: 0;
+}
+hr{
+    width: 97%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#menu{
+    background-color: rgb(169, 168, 168);
+    padding: 5px;
+}
+#menu a{
+    color: white;
+    padding-left: 15px;
+    font-size: larger;
+    text-decoration: none;
+}
+#menu img{
+    width: 30px;
+}
 /* HEADER */
 /* TEXT */
 /* SERVICES */
